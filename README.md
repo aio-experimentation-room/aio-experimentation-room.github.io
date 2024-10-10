@@ -31,4 +31,5 @@ And browse http://localhost:8000
 ## License
 
 This documentation is release under the CC BY 4.0 license.
+
 [![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0)
