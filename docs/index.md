@@ -22,8 +22,8 @@ laboratory.
 
 ## Machines and tools
 
-- [3D printer](./prusamk3.md)
 - [Laser cutter](./muse3d.md)
+- [3D printer](./prusamk3.md)
 - [Soldering station](./soldering.md)
 - [PCB design](./pcb.md)
 - [Other tools](./tools.md)
