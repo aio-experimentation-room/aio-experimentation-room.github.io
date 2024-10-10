@@ -57,7 +57,10 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - minify
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
   - print-site
 
 markdown_extensions:

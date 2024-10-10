@@ -23,7 +23,7 @@ jobs:
     - name: Check for broken links
       run: python -m linkcheckmd docs/ --verbose
     - name: Build the documentation
-      run: mkdocs build -s
+      run: mkdocs build --strict
     - name: Upload artifact
       id: upload-artifact
       uses: actions/upload-pages-artifact@v3
