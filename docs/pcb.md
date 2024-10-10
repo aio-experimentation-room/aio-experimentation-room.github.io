@@ -51,9 +51,12 @@ carefully prepare and sort the components as follows:
 
 ![](./images/pick-and-place.jpg)
 
-Unless you have very good eyes it's better to avoid too small components in the
-PCB design, like SMD 0402. Some BGA components with tiny pads might also be
-challenging to assemble with this machine.
+!!! Note
+
+    Unless you have very good eyes it's better to avoid too small components in the
+    PCB design, like SMD 0402. Some BGA components with tiny pads might also be
+    challenging to assemble with this machine.
+
 
 Once all components are placed, check again the result with the
 [binocular magnifier](tools.md#binocular-magnifier). Things to check are correct
