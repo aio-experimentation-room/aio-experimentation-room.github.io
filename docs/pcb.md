@@ -46,8 +46,8 @@ to verify it's correctly applied: no missing pads, not too much paste on tiny pa
 The pick and place is used to place all components on the PCB. We recommend to
 carefully prepare and sort the components as follows:
 - label the components bags with the labels used to name the components on the PCB.
-  This saves a lot of time and avoids potentials mistakes during
-- display the board layout in a computer beside the pick and place
+  This saves a lot of time and avoids potential mistakes during the process
+- display the board layout on a laptop beside the pick and place
 
 ![](./images/pick-and-place.jpg)
 
