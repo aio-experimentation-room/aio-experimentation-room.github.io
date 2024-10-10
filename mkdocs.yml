@@ -1,0 +1,86 @@
+site_name: Experimentation room
+site_url: https://aio-experimentation-room.github.io
+repo_url: https://github.com/aio-experimenation-room/aio-experimentation-room.github.io
+site_dir: _build
+
+nav:
+  - Home: index.md
+  - Tools:
+    - Laser cutter: muse3d.md
+    - 3D printer: prusamk3.md
+    - PCB: pcb.md
+    - Soldering: soldering.md
+    - Other tools: tools.md
+  - Projects: projects.md
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  icon:
+    repo: fontawesome/brands/github
+    logo: fontawesome/solid/screwdriver-wrench
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+
+copyright: Copyright &copy; 2024 Inria
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - minify
+  - print-site
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      line_spans: __span
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tilde
+
+
