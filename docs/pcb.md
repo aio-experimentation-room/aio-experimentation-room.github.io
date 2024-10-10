@@ -62,7 +62,7 @@ Once all components are placed, check again the result with the
 [soldering microscope](soldering.md#soldering-microscope). Things to check are correct
 placement and orientation of the components
 
-## Oven
+## Reflow oven
 
 This is the last step of the assembly: reflow soldering.
 

@@ -28,7 +28,7 @@ multiple tools, like helping hands.
 The soldering microscope is very useful in multiple cases:
 - soldering small components using the [soldering station](#soldering-station)
 - desoldering small components using the [heat gun](#heat-gun)
-- inspecting a PCB after printing paste on it, pick and place, and reflow soldering in the [oven](./pcb.md#oven)
+- inspecting a PCB after printing paste on it, pick and place, and reflow soldering in the [oven](./pcb.md#reflow-oven)
 
 ![](./images/binocular.jpg)
 
