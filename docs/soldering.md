@@ -25,6 +25,6 @@ multiple tools, like helping hands.
 
 ## Heat gun
 
-The heat gun can be used to desolder some components on a PCBs.
+The heat gun can be used to desolder some components on a PCB.
 
 ![](./images/heat-gun.jpg)
