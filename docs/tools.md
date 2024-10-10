@@ -1,16 +1,7 @@
 # Other Tools
 
 This page describes other tools available that can be used for
-different kind of prototyping: PCB prototyping/fix, mechanical assembly, etc
-
-## Binocular magnifier
-
-The binocular magnifier is very useful in multiple cases:
-- soldering small components using the [soldering station](./soldering.md#soldering-station)
-- desoldering small components using the [heat gun](./soldering.md#heat-gun)
-- inspecting a PCB after printing paste on it, pick and place, and reflow soldering in the [oven](./pcb.md#oven)
-
-![](./images/binocular.jpg)
+different kind of prototyping: electronics, mechanical assembly, showcase, etc
 
 ## Multimeters
 

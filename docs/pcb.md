@@ -38,7 +38,7 @@ to also order a PCB stencil along with the PCB manufacturing.
 
 ![](./images/paste-printer.jpg)
 
-Once the paste is applied, use the [binocular magnifier](tools.md#binocular-magnifier)
+Once the paste is applied, use the [soldering microscope](soldering.md#soldering-microscope)
 to verify it's correctly applied: no missing pads, not too much paste on tiny pads, etc
 
 ## Pick and place
@@ -59,7 +59,7 @@ carefully prepare and sort the components as follows:
 
 
 Once all components are placed, check again the result with the
-[binocular magnifier](tools.md#binocular-magnifier). Things to check are correct
+[soldering microscope](soldering.md#soldering-microscope). Things to check are correct
 placement and orientation of the components
 
 ## Oven
