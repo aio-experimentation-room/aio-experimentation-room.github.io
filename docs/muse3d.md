@@ -13,7 +13,7 @@ Before using the laser cutter, please follow the steps below:
 
 1. Power on the water pump (little black box below the machine)
 
-2. Load and configure your project in the RetinaEngrace interface. This has to
+2. Load and configure your project in the RetinaEngrave interface. This has to
    be done by connecting an Ethernet cable between a computer and the laser
    cutter, setup a the 169.254.xx.xx IP address manually in the computer and
    access http://169.254.xx.xx (TODO: update the address).
