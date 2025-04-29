@@ -13,7 +13,7 @@ multiple tools, like helping hands.
   remote control
 - Turn on the soldering station
 
-!!! Note
+!!! Tip
 
     Don't hesitate to use the [soldering microscope](#soldering-microscope)
     while soldering small components.

@@ -14,4 +14,8 @@ models (STL, etc) for the 3D printer.
 ## Material
 
 The 3D printer is usually used with PLA 1.75mm but it has also been used with
-success with Filaflex 40 from Filatech.
+success with [FilaFlex 40 from Filatech](https://fila-tech.store/wp-content/uploads/2021/11/FilaFlexible40-Datasheet-1.pdf).
+
+See also
+[machine recommended configuration](https://fila-tech.store/wp-content/uploads/2021/11/Recommended-Printer-Configuration.pdf)
+for Filatech filaments.

@@ -27,6 +27,7 @@ laboratory.
 - [3D printer](./prusamk3.md)
 - [Soldering station](./soldering.md)
 - [PCB design](./pcb.md)
+- [Measurement tools](./measurements.md)
 - [Other tools](./tools.md)
 
 ## Projects

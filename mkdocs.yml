@@ -10,6 +10,7 @@ nav:
     - 3D printer: prusamk3.md
     - PCB: pcb.md
     - Soldering: soldering.md
+    - Measurement tools: measurements.md
     - Other tools: tools.md
   - Projects: projects.md
 
@@ -51,10 +52,13 @@ theme:
     - navigation.top
     - content.code.copy
 
-copyright: Copyright &copy; 2024 Inria
+copyright: Copyright &copy; 2024 <a href="https://www.inria.fr">Inria</a>
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/mermaid@11.3.0/dist/mermaid.min.js
 
 plugins:
   - minify:
@@ -74,9 +78,13 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.fancylists
   - pymdownx.highlight:
       line_spans: __span
+  - pymdownx.keys
   - pymdownx.mark
+  - pymdownx.progressbar
+  - pymdownx.saneheaders
   - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.superfences:
@@ -84,6 +92,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
   - pymdownx.tilde
-
-
+  - pymdownx.tasklist

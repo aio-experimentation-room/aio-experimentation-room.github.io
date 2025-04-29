@@ -1,13 +1,7 @@
 # Other Tools
 
 This page describes other tools available that can be used for
-different kind of prototyping: electronics, mechanical assembly, showcase, etc
-
-## Multimeters
-
-The essential tool in electronics.
-
-![](./images/multimeter.jpg)
+different kind of prototyping: mechanical assembly, repairing, showcase, etc
 
 ## Glue gun
 
